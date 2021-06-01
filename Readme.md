@@ -1,4 +1,4 @@
-### MLPerf results visualizer for HPC v0.7
+### MLPerf HPC v0.7 results visualization
 
 Create a copy of `mlperf_results_paths.json.template` at `mlperf_results_paths.json` with valid paths to the results repos, set up the Python virtual env 
 
